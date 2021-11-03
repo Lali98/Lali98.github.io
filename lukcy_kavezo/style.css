@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(251, 238, 219);
+}
+
+.nav-link{
+    transition: 0.5s;
+}
+
+footer{
+    width: 100%;
+}
+
+#btn{
+    background: rgb(69, 207, 94);
+    border: 0;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+#email{
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border: none;
+    font-size: 13px;
+    padding-left: 7px;
+    width: 200px;
+}
+/*
+.row{
+    margin: auto;
+}*/
+
+.card{
+    width: 18rem;
+    cursor: default;
+    border: 1px solid rgb(0, 148, 0);
+}
+
+.card:hover{
+    background: rgb(0, 148, 0);
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.card:hover{
+    color: white;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+
+main.container{
+    min-height: 90vh;
+}
+/*
+.card-title{
+    text-align: center;
+}*/
