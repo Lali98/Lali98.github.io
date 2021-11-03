@@ -1,4 +1,4 @@
-# Lali98.github.io
+# Földoön kívüli élet
 ## Részvevő:
 - Kiss Lajos Bertalan
 - Nagy Tibor
