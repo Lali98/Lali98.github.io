@@ -1,6 +1,6 @@
 # Lukcy Kávézó
 
-## Késvevők
+## Részvevők
 - Kiss Lajos Bertalan
 - Nagy Tibor
 - Kolozsvári Krisztián
