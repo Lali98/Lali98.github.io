@@ -1,0 +1,25 @@
+#nav-szin{
+    background-color: rgba(0, 114, 190, 0.705);
+}
+
+.nav-link:hover{
+    background-color: rgba(0, 89, 148, 0.705);
+}
+
+@media only screen and (max-width: 997px) {
+    .nav-link:hover{
+        background-color: rgba(0, 89, 148, 0);
+    }
+
+    .offcanvas-body, .offcanvas-header{
+        background-color: rgba(0, 114, 190, 0.705);
+    }
+}
+
+#bg{
+    background-color: rgba(0, 0, 0, 0.473);
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
