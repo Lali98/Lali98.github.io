@@ -1,19 +1,12 @@
 # Földoön kívüli élet
+
+A Földön kívüli élet című témát egy csapatmunkában dolgoztuk fel. Az ötleteket, a cikkeket az internetről gyűjtöttük. Minden olyan információt közlünk a weboldalban, ami a Földön kívüli életről szóba jöhet. A feladatokat szintén a TRELLO táblán keresztül osztottuk meg, és minden szóba jöhetett információt ott osztottunk meg egymással. A feladat elkészülést validálása után megosztottuk a többi csapattal, majd közösen értékeltük egymás weboldaljait.
+
 ## Részvevő:
 - Kiss Lajos Bertalan
 - Nagy Tibor
 - Kolozsvári Krisztián
 
-## Források
-- Földön kívüli élet - Wikipedia:
-```
-https://hu.wikipedia.org/wiki/F%C3%B6ld%C3%B6n_k%C3%ADv%C3%BCli_%C3%A9let
-```
-- Van-e élet a Földön kívül? - nkp.hu:
-```
-https://www.nkp.hu/tankonyv/fizika_11/lecke_06_034
-```
-- Egyedül vagyunk a világegyetemben? Így kutatnak a földön kívüli élet után! - hirado.hu:
-```
-https://hirado.hu/tudomany-high-tech/urkutatas/cikk/2021/06/30/egyedul-vagyunk-a-vilagegyetemben-igy-kutatnak-a-foldon-kivuli-elet-utan#
-```
+![Weboldalrol](K%C3%A9pek/%C3%A9let.PNG)
+
+[A weboldal cime](https://lali98.github.io/foldon_kivuli_elet/)
