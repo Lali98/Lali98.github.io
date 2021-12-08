@@ -1,23 +1,33 @@
 #nav-szin{
-    background-color: rgba(0, 114, 190, 0.705);
+    background-color: rgba(0, 75, 126, 0.705);
 }
 
 .nav-link:hover{
-    background-color: rgba(0, 89, 148, 0.705);
+    background-color: rgba(0, 75, 126, 0.705);
 }
 
 @media only screen and (max-width: 997px) {
     .nav-link:hover{
-        background-color: rgba(0, 89, 148, 0);
+        background-color: rgba(0, 75, 126, 0.705);
     }
 
     .offcanvas-body, .offcanvas-header{
-        background-color: rgba(0, 114, 190, 0.705);
+        background-color: rgba(0, 75, 126, 0.705);
     }
 }
 
 #bg{
     background-color: rgba(0, 0, 0, 0.473);
+    backdrop-filter: blur(4px);
+    /* max-height: 100px;*/
+}
+
+body{
+    background-color: rgb(1, 0, 54);
+}
+
+.col-10 h2{
+    color: white;
 }
 
 ::-webkit-scrollbar{
